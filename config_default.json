@@ -1,0 +1,7 @@
+{
+    "domain": "https://domain.freshservice.com",
+    "api_key": "FreshService_API_Key"
+    "backup_path": "/path/to/backups",
+    "backup_format": "%Y%m%d-%H%M",
+    "json_indent": 2
+}
